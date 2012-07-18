@@ -1,0 +1,43 @@
+{
+  "name": "couchfetcher",
+  "description": "",
+  "keywords": [
+    ""
+  ],
+  "version": "0.0.1",
+  "homepage": "http://github.com/cliffano/couchfetcher",
+  "author": "Cliffano Subagio <blah@cliffano.com> (http://blog.cliffano.com)",
+  "main": "./lib/couchfetcher",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/cliffano/couchfetcher.git"
+  },
+  "bugs": {
+    "url": "http://github.com/cliffano/couchfetcher/issues"
+  },
+  "directories": {
+    "lib": "./lib",
+    "test": "./test"
+  },
+  "dependencies": {
+    "async": "0.1.22",
+    "bagofholding": "0.0.11",
+    "nano": "3.0.9",
+    "underscore": "1.3.3"
+  },
+  "devDependencies": {
+    "mocha": "1.3.0",
+    "sandboxed-module": "0.1.3",
+    "should": "0.6.3"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/cliffano/couchfetcher/raw/master/LICENSE"
+    }
+  ]
+}
+ 
