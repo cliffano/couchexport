@@ -1,19 +1,19 @@
 {
-  "name": "couchfetcher",
+  "name": "couchexport",
   "description": "",
   "keywords": [
     ""
   ],
   "version": "0.0.1",
-  "homepage": "http://github.com/cliffano/couchfetcher",
+  "homepage": "http://github.com/cliffano/couchexport",
   "author": "Cliffano Subagio <blah@cliffano.com> (http://blog.cliffano.com)",
-  "main": "./lib/couchfetcher",
+  "main": "./lib/couchexport",
   "repository": {
     "type": "git",
-    "url": "http://github.com/cliffano/couchfetcher.git"
+    "url": "http://github.com/cliffano/couchexport.git"
   },
   "bugs": {
-    "url": "http://github.com/cliffano/couchfetcher/issues"
+    "url": "http://github.com/cliffano/couchexport/issues"
   },
   "directories": {
     "lib": "./lib",
@@ -36,7 +36,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/cliffano/couchfetcher/raw/master/LICENSE"
+      "url": "http://github.com/cliffano/couchexport/raw/master/LICENSE"
     }
   ]
 }

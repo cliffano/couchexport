@@ -1,4 +1,4 @@
-couchfetcher [![http://travis-ci.org/cliffano/couchfetcher](https://secure.travis-ci.org/cliffano/couchfetcher.png?branch=master)](http://travis-ci.org/cliffano/couchfetcher)
+couchexport [![http://travis-ci.org/cliffano/couchexport](https://secure.travis-ci.org/cliffano/couchexport.png?branch=master)](http://travis-ci.org/cliffano/couchexport)
 -----------
 
 TODO
@@ -6,15 +6,10 @@ TODO
 Installation
 ------------
 
-    npm install -g couchfetcher 
+    npm install couchexport 
 
 Usage
 -----
 
 TODO
-
-Colophon
---------
-
-Follow [@cliffano](http://twitter.com/cliffano) on Twitter.
  
